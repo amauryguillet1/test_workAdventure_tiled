@@ -474,7 +474,7 @@
                         {
                          "name":"default",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"door",
@@ -490,11 +490,11 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":484,
-                 "y":696
+                 "x":483,
+                 "y":702
                 }, 
                 {
-                 "height":126.5,
+                 "height":30.5,
                  "id":21,
                  "name":"sueilDoor",
                  "properties":[
@@ -507,8 +507,8 @@
                  "type":"",
                  "visible":true,
                  "width":65.5,
-                 "x":449,
-                 "y":672
+                 "x":448,
+                 "y":668
                 }],
          "opacity":1,
          "type":"objectgroup",
